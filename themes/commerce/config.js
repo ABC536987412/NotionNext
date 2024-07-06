@@ -2,7 +2,7 @@ const CONFIG = {
   // 封面大图
   COMMERCE_HOME_BANNER_ENABLE: true,
 
-  COMMERCE_TEXT_CENTER_TITLE: 'Product Center', // 中间产品区块标题
+  COMMERCE_TEXT_CENTER_TITLE: 'Technical Articles', // 中间产品区块标题
   COMMERCE_TEXT_CENTER_DESCRIPTION:
     'Written by WX House, it aims to build a small broken station for technical novices.', // 中间产品区块文字描述
   COMMERCE_TEXT_CENTER_CATEGORY_TITLE: 'Product Categories', // 左侧产品分类标题
