@@ -4,7 +4,7 @@ const CONFIG = {
 
   COMMERCE_TEXT_CENTER_TITLE: 'Technical Articles', // 中间产品区块标题
   COMMERCE_TEXT_CENTER_DESCRIPTION:
-    'Written by WX House, it aims to build a small broken station for technical novices.', // 中间产品区块文字描述
+    'Written by the realm of the unseen, it aims to build a small broken station for technical novices.', // 中间产品区块文字描述
   COMMERCE_TEXT_CENTER_CATEGORY_TITLE: 'Product Categories', // 左侧产品分类标题
   COMMERCE_TEXT_FOOTER_TITLE: 'Contact US', // COMMERCE主题页脚文案标题；按Shift+Enter键可以换行
   COMMERCE_TEXT_FOOTER_MENU_1: 'Product Center', // COMMERCE主题页脚左侧菜单标题1
